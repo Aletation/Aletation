@@ -12,14 +12,9 @@
 - :open_hands: люблю помогать людям и не стесняюсь просить чужой помощи
 - :dog2: большой фанат породы Сиба Ину
 
-## :outbox_tray: Как со мной связаться
-<div>
-    <a href="https://t.me/yqqrnb" target="_blank">
-      <img src="https://seeklogo.com/images/T/telegram-new-2019-simple-logo-FAD5A4800F-seeklogo.com.png" width="40" height="40" alt="telegram" />
-    </a>
-</div>
+### Как со мной связаться [![Telegram Badge](https://img.shields.io/badge/-yqqrnb-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/yqqrnb)
 
-## :hammer: Языки и инструменты:
+## :hammer: Мои языки и инструменты:
 <div>
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="40" height="40" alt="PHP" />
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/laravel-colored.svg" width="40" height="40" alt="Laravel" />
